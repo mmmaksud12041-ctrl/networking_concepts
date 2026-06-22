@@ -1,2 +1,2 @@
 # networking_concepts
-Exploring Networking through hand-on practice labs.
+Exploring Networking through hands-on practice labs.
